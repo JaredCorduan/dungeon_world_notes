@@ -1,1 +1,5 @@
-# dungeon_world_notes
+# Dungeon World Notes
+
+:mage:
+:european_castle:
+:dragon:
