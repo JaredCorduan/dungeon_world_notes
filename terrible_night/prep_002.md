@@ -33,6 +33,7 @@ with the scent of damp earth and the sound of rustling leaves.
   * tunnel caries on at other side.
   * two caves on either side.
   * at end of second tunnel, big opening with moon relic and giant centipede.
+* Carnivorous Garden
 
 ## Mobs
 
@@ -43,6 +44,8 @@ d6 damage, 3 hp, 0 armor
 | damage  | hp | armor |
 | ------- | -- | ----- |
 | d6      |  3 |    0  |
+
+can regenerate.
 
 ### fanged flying frog
 
@@ -57,6 +60,24 @@ d6 damage, 3 hp, 0 armor
 | d6-2    |  4 |    0  |
 
 * can poison
+
+### giant leech
+
+| damage  | hp | armor |
+| ------- | -- | ----- |
+| d8      | 10 |    0  |
+
+### Venomous Ivy
+
+| damage  | hp | armor |
+| ------- | -- | ----- |
+| d8      |  6 |    0  |
+
+### Bog Wyrm
+
+| damage  | hp | armor |
+| ------- | -- | ----- |
+| d10     | 24 |    3  |
 
 ### giant centipede
 

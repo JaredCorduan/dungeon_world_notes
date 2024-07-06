@@ -1,9 +1,17 @@
 # Sesson 0
 
+## Player Characters
+
 Ther are two players characters:
 
 * Felix the elf druid
 * Carl the dwarf fighter.
+
+## Prep
+
+As a group, we selected "The Temple of the Terrible Night" from "20 Dungeon Starters".
+
+## Adventure
 
 Being a druid, Felix cares about nature being in balance.
 He heard rumors about a schism within the priesthood of the Ancient Ones,
