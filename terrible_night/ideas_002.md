@@ -145,383 +145,297 @@ Thaldrin’s ultimate goal is to maintain and extend his power by keeping the wo
 
 # NPCs in Moonshadow Village
 1. Eldric the Wise
-
-    Role: Village Elder
-    Description: Eldric is a venerable elf with long, silver hair and piercing blue eyes. He wears robes of deep green and carries a staff carved with ancient runes. Known for his vast knowledge of the ancient ways and the history of the Moon worshipers, Eldric is a respected figure in the village. He speaks with a calm and deliberate tone, often taking his time to think before responding.
-    Personality: Wise, patient, and kind-hearted, but can be stern when it comes to protecting the village.
-    Motivations: To preserve the traditions and safety of Moonshadow Village, and to find a way to restore balance.
-    Quirks: Often found meditating by the sacred moonlit pool in the village center.
-
+    * Role: Village Elder
+    * Description: Eldric is a venerable elf with long, silver hair and piercing blue eyes. He wears robes of deep green and carries a staff carved with ancient runes. Known for his vast knowledge of the ancient ways and the history of the Moon worshipers, Eldric is a respected figure in the village. He speaks with a calm and deliberate tone, often taking his time to think before responding.
+    * Personality: Wise, patient, and kind-hearted, but can be stern when it comes to protecting the village.
+    * Motivations: To preserve the traditions and safety of Moonshadow Village, and to find a way to restore balance.
+    * Quirks: Often found meditating by the sacred moonlit pool in the village center.
 2. Liora the Scout
-
-    Role: Scout and Messenger
-    Description: Liora is a lithe and agile elf with short, dark hair and green eyes that seem to miss nothing. She is dressed in leather armor suited for stealth and agility, and she moves with a feline grace. Liora is often the first to venture into dangerous territories to gather information and keep an eye on potential threats.
-    Personality: Brave, resourceful, and fiercely loyal to her people.
-    Motivations: To protect her village and uncover the plans of their enemies, especially Thaldrin.
-    Quirks: Has a pet hawk named Zephyr that accompanies her on scouting missions.
+    * Role: Scout and Messenger
+    * Description: Liora is a lithe and agile elf with short, dark hair and green eyes that seem to miss nothing. She is dressed in leather armor suited for stealth and agility, and she moves with a feline grace. Liora is often the first to venture into dangerous territories to gather information and keep an eye on potential threats.
+    * Personality: Brave, resourceful, and fiercely loyal to her people.
+    * Motivations: To protect her village and uncover the plans of their enemies, especially Thaldrin.
+    * Quirks: Has a pet hawk named Zephyr that accompanies her on scouting missions.
 
 3. Myra the Healer
-
-    Role: Village Healer
-    Description: Myra is a gentle, middle-aged elf with long, flowing auburn hair and warm brown eyes. She wears simple yet elegant robes and a necklace of healing herbs. Known for her exceptional skills in herbalism and healing magic, Myra is the one everyone turns to in times of illness or injury.
-    Personality: Compassionate, nurturing, and wise.
-    Motivations: To heal and care for the villagers, and to ensure the health and well-being of everyone in Moonshadow Village.
-    Quirks: Often hums ancient lullabies while preparing remedies.
+    * Role: Village Healer
+    * Description: Myra is a gentle, middle-aged elf with long, flowing auburn hair and warm brown eyes. She wears simple yet elegant robes and a necklace of healing herbs. Known for her exceptional skills in herbalism and healing magic, Myra is the one everyone turns to in times of illness or injury.
+    * Personality: Compassionate, nurturing, and wise.
+    * Motivations: To heal and care for the villagers, and to ensure the health and well-being of everyone in Moonshadow Village.
+    * Quirks: Often hums ancient lullabies while preparing remedies.
 
 4. Rurik the Blacksmith
-
-    Role: Blacksmith and Weaponsmith
-    Description: Rurik is a sturdy, muscular dwarf with a thick beard and a perpetual scowl. His hands are rough and calloused from years of working the forge, and he wears a heavy leather apron. Despite his gruff exterior, Rurik is a master craftsman who takes great pride in his work.
-    Personality: Gruff, no-nonsense, but with a heart of gold.
-    Motivations: To provide the best weapons and armor for the village defenders, and to ensure his craftsmanship is unmatched.
-    Quirks: Has a soft spot for children and often makes small toys for them in his spare time.
+    * Role: Blacksmith and Weaponsmith
+    * Description: Rurik is a sturdy, muscular dwarf with a thick beard and a perpetual scowl. His hands are rough and calloused from years of working the forge, and he wears a heavy leather apron. Despite his gruff exterior, Rurik is a master craftsman who takes great pride in his work.
+    * Personality: Gruff, no-nonsense, but with a heart of gold.
+    * Motivations: To provide the best weapons and armor for the village defenders, and to ensure his craftsmanship is unmatched.
+    * Quirks: Has a soft spot for children and often makes small toys for them in his spare time.
 
 5. Seraphina the Seer
-
-    Role: Seer and Oracle
-    Description: Seraphina is an enigmatic elf with pale skin, silver hair, and eyes that seem to see beyond the present. She wears flowing robes adorned with mystical symbols and carries a crystal ball. Seraphina's visions have guided the village through many crises, and she is both revered and feared for her prophetic abilities.
-    Personality: Mysterious, insightful, and sometimes cryptic.
-    Motivations: To interpret her visions and guide the village towards safety and balance.
+    * Role: Seer and Oracle
+    * Description: Seraphina is an enigmatic elf with pale skin, silver hair, and eyes that seem to see beyond the present. She wears flowing robes adorned with mystical symbols and carries a crystal ball. Seraphina's visions have guided the village through many crises, and she is both revered and feared for her prophetic abilities.
+    * Personality: Mysterious, insightful, and sometimes cryptic.
+    * Motivations: To interpret her visions and guide the village towards safety and balance.
     Quirks: Speaks in riddles and often seems to be in a trance.
-
 6. Talin the Hunter
-
-    Role: Hunter and Tracker
-    Description: Talin is a tall, lean elf with sharp features and a keen gaze. He wears camouflaged clothing and carries a bow and a quiver of arrows. Talin is the best tracker in the village, able to follow the faintest of trails and bring back game even in the harshest conditions.
-    Personality: Quiet, observant, and fiercely independent.
-    Motivations: To provide food for the village and protect it from external threats.
+    * Role: Hunter and Tracker
+    * Description: Talin is a tall, lean elf with sharp features and a keen gaze. He wears camouflaged clothing and carries a bow and a quiver of arrows. Talin is the best tracker in the village, able to follow the faintest of trails and bring back game even in the harshest conditions.
+    * Personality: Quiet, observant, and fiercely independent.
+    * Motivations: To provide food for the village and protect it from external threats.
     Quirks: Has an uncanny ability to mimic animal sounds.
-
 7. Ayla the Weaver
-
-    Role: Weaver and Storyteller
-    Description: Ayla is an elderly elf with nimble fingers and a kind smile. She weaves beautiful tapestries that tell the stories and history of the Moon worshipers. Her work is renowned for its intricate detail and vibrant colors.
-    Personality: Warm, creative, and full of stories.
-    Motivations: To preserve the history and culture of Moonshadow Village through her tapestries.
-    Quirks: Often hums old songs while she works and loves to tell stories to the village children.
+    * Role: Weaver and Storyteller
+    * Description: Ayla is an elderly elf with nimble fingers and a kind smile. She weaves beautiful tapestries that tell the stories and history of the Moon worshipers. Her work is renowned for its intricate detail and vibrant colors.
+    * Personality: Warm, creative, and full of stories.
+    * Motivations: To preserve the history and culture of Moonshadow Village through her tapestries.
+    * Quirks: Often hums old songs while she works and loves to tell stories to the village children.
 
 # NPCs in Sunhaven
 
 1. High Priestess Selene
-
-    Role: Religious Leader
-    Description: High Priestess Selene is a regal human with long, flowing golden hair and bright amber eyes. She wears ornate robes embroidered with sun motifs and carries a staff topped with a radiant crystal. As the spiritual leader of Sunhaven, she is dedicated to guiding her people in their worship of Din Pita.
-    Personality: Charismatic, devout, and compassionate.
-    Motivations: To maintain the purity and integrity of the Sun worship and to counter Thaldrin’s corrupt influence.
-    Quirks: Often found in deep prayer or meditation during the dawn.
-
+    * Role: Religious Leader
+    * Description: High Priestess Selene is a regal human with long, flowing golden hair and bright amber eyes. She wears ornate robes embroidered with sun motifs and carries a staff topped with a radiant crystal. As the spiritual leader of Sunhaven, she is dedicated to guiding her people in their worship of Din Pita.
+    * Personality: Charismatic, devout, and compassionate.
+    * Motivations: To maintain the purity and integrity of the Sun worship and to counter Thaldrin’s corrupt influence.
+    * Quirks: Often found in deep prayer or meditation during the dawn.
 2. Captain Gareth
-
-    Role: Leader of the Sunhaven Guard
-    Description: Captain Gareth is a tall, broad-shouldered human with a stern face and a neatly trimmed beard. He wears polished armor and a sun-emblazoned cloak. He is a skilled warrior and a disciplined leader, ensuring the safety and order of Sunhaven.
-    Personality: Loyal, honorable, and strategic.
-    Motivations: To protect Sunhaven from any threats and to root out Thaldrin’s agents.
-    Quirks: Practices swordplay at dawn every day.
-
+    * Role: Leader of the Sunhaven Guard
+    * Description: Captain Gareth is a tall, broad-shouldered human with a stern face and a neatly trimmed beard. He wears polished armor and a sun-emblazoned cloak. He is a skilled warrior and a disciplined leader, ensuring the safety and order of Sunhaven.
+    * Personality: Loyal, honorable, and strategic.
+    * Motivations: To protect Sunhaven from any threats and to root out Thaldrin’s agents.
+    * Quirks: Practices swordplay at dawn every day.
 3. Eldrin the Scholar
-
-    Role: Historian and Scribe
-    Description: Eldrin is a middle-aged elf with spectacles and ink-stained fingers. He wears simple robes and is often seen carrying scrolls and books. Eldrin dedicates his life to studying the ancient texts and the history of Sunhaven and its religious practices.
-    Personality: Inquisitive, knowledgeable, and meticulous.
-    Motivations: To uncover the true history of Sunhaven and the Sun and Moon relics.
-    Quirks: Gets lost in thought and can sometimes be found muttering historical facts to himself.
-
+    * Role: Historian and Scribe
+    * Description: Eldrin is a middle-aged elf with spectacles and ink-stained fingers. He wears simple robes and is often seen carrying scrolls and books. Eldrin dedicates his life to studying the ancient texts and the history of Sunhaven and its religious practices.
+    * Personality: Inquisitive, knowledgeable, and meticulous.
+    * Motivations: To uncover the true history of Sunhaven and the Sun and Moon relics.
+    * Quirks: Gets lost in thought and can sometimes be found muttering historical facts to himself.
 4. Mira the Merchant
-
-    Role: Shopkeeper and Trader
-    Description: Mira is a lively human woman with curly red hair and bright green eyes. She wears colorful clothing and a welcoming smile. Mira runs the most popular general store in Sunhaven, offering a wide variety of goods and supplies.
-    Personality: Friendly, shrewd, and resourceful.
-    Motivations: To provide for her family and ensure her business thrives.
-    Quirks: Has an uncanny ability to remember every customer’s name and preferences.
+    * Role: Shopkeeper and Trader
+    * Description: Mira is a lively human woman with curly red hair and bright green eyes. She wears colorful clothing and a welcoming smile. Mira runs the most popular general store in Sunhaven, offering a wide variety of goods and supplies.
+    * Personality: Friendly, shrewd, and resourceful.
+    * Motivations: To provide for her family and ensure her business thrives.
+    * Quirks: Has an uncanny ability to remember every customer’s name and preferences.
 
 5. Thorin the Blacksmith
-
-    Role: Blacksmith and Armorer
-    Description: Thorin is a burly dwarf with a fiery temper and a bushy black beard. He wears a leather apron and is often covered in soot and sweat. Thorin’s craftsmanship is renowned in Sunhaven, producing some of the finest weapons and armor.
-    Personality: Gruff, hardworking, and loyal.
-    Motivations: To forge the best weapons and armor to protect Sunhaven.
-    Quirks: Sings dwarven songs while working the forge.
-
+    * Role: Blacksmith and Armorer
+    * Description: Thorin is a burly dwarf with a fiery temper and a bushy black beard. He wears a leather apron and is often covered in soot and sweat. Thorin’s craftsmanship is renowned in Sunhaven, producing some of the finest weapons and armor.
+    * Personality: Gruff, hardworking, and loyal.
+    * Motivations: To forge the best weapons and armor to protect Sunhaven.
+    * Quirks: Sings dwarven songs while working the forge.
 6. Lyra the Herbalist
-
-    Role: Healer and Herbalist
-    Description: Lyra is a serene human woman with long, braided brown hair and gentle hazel eyes. She wears simple, practical clothing and an apron filled with herbs and potions. Lyra is known for her knowledge of healing herbs and remedies.
-    Personality: Compassionate, wise, and nurturing.
-    Motivations: To heal the sick and injured and to teach others the art of herbalism.
-    Quirks: Keeps a small garden of rare herbs behind her shop.
-
+    * Role: Healer and Herbalist
+    * Description: Lyra is a serene human woman with long, braided brown hair and gentle hazel eyes. She wears simple, practical clothing and an apron filled with herbs and potions. Lyra is known for her knowledge of healing herbs and remedies.
+    * Personality: Compassionate, wise, and nurturing.
+    * Motivations: To heal the sick and injured and to teach others the art of herbalism.
+    * Quirks: Keeps a small garden of rare herbs behind her shop.
 7. Jareth the Bard
-
-    Role: Musician and Storyteller
-    Description: Jareth is a charismatic half-elf with a charming smile and a lute slung over his shoulder. He wears colorful clothing and a hat adorned with feathers. Jareth is known for his captivating tales and enchanting music.
-    Personality: Witty, entertaining, and kind-hearted.
-    Motivations: To spread joy and preserve the stories and songs of Sunhaven.
-    Quirks: Can often be found playing music in the town square or telling stories to children.
-
+    * Role: Musician and Storyteller
+    * Description: Jareth is a charismatic half-elf with a charming smile and a lute slung over his shoulder. He wears colorful clothing and a hat adorned with feathers. Jareth is known for his captivating tales and enchanting music.
+    * Personality: Witty, entertaining, and kind-hearted.
+    * Motivations: To spread joy and preserve the stories and songs of Sunhaven.
+    * Quirks: Can often be found playing music in the town square or telling stories to children.
 8. Kara the Ranger
-
-    Role: Tracker and Scout
-    Description: Kara is a nimble half-elf with keen blue eyes and short, cropped blonde hair. She wears light armor suited for stealth and agility, and carries a bow and quiver of arrows. Kara is the best tracker in Sunhaven and often ventures into the surrounding wilderness.
-    Personality: Independent, observant, and protective.
-    Motivations: To keep Sunhaven safe from external threats and to explore the wilderness.
-    Quirks: Has a pet wolf named Shadow that accompanies her on patrols.
-
+    * Role: Tracker and Scout
+    * Description: Kara is a nimble half-elf with keen blue eyes and short, cropped blonde hair. She wears light armor suited for stealth and agility, and carries a bow and quiver of arrows. Kara is the best tracker in Sunhaven and often ventures into the surrounding wilderness.
+    * Personality: Independent, observant, and protective.
+    * Motivations: To keep Sunhaven safe from external threats and to explore the wilderness.
+    * Quirks: Has a pet wolf named Shadow that accompanies her on patrols.
 9. Dorian the Farmer
-
-    Role: Farmer and Provider
-    Description: Dorian is a robust human man with tanned skin and a wide-brimmed hat. He wears simple, sturdy clothing and is often seen with a hoe or a basket of produce. Dorian’s farm provides much of the fresh food for Sunhaven.
-    Personality: Hardworking, humble, and generous.
-    Motivations: To provide for his family and ensure the village has enough food.
-    Quirks: Always has a piece of straw in his mouth.
-
+    * Role: Farmer and Provider
+    * Description: Dorian is a robust human man with tanned skin and a wide-brimmed hat. He wears simple, sturdy clothing and is often seen with a hoe or a basket of produce. Dorian’s farm provides much of the fresh food for Sunhaven.
+    * Personality: Hardworking, humble, and generous.
+    * Motivations: To provide for his family and ensure the village has enough food.
+    * Quirks: Always has a piece of straw in his mouth.
 10. Isla the Fisherwoman
-
-    Role: Fisherwoman and Boatmaker
-    Description: Isla is a strong human woman with sun-weathered skin and a hearty laugh. She wears practical clothing and a fishing net over her shoulder. Isla is known for her skills in fishing and boatmaking.
-    Personality: Cheerful, practical, and adventurous.
-    Motivations: To provide fresh fish for Sunhaven and to build the best boats.
-    Quirks: Sings sea shanties while working on her boats.
+    * Role: Fisherwoman and Boatmaker
+    * Description: Isla is a strong human woman with sun-weathered skin and a hearty laugh. She wears practical clothing and a fishing net over her shoulder. Isla is known for her skills in fishing and boatmaking.
+    * Personality: Cheerful, practical, and adventurous.
+    * Motivations: To provide fresh fish for Sunhaven and to build the best boats.
+    * Quirks: Sings sea shanties while working on her boats.
 
 # NPCs in Twilight City
 
 1. Mayor Calista Varis
-
-    Role: Mayor and Leader of Twilight City
-    Description: Mayor Calista Varis is a poised and dignified half-elf with silver hair and striking violet eyes. She wears elegant but practical clothing, often adorned with the city’s emblem. Calista is a skilled diplomat and leader, dedicated to maintaining the peace and prosperity of Twilight City.
-    Personality: Diplomatic, strategic, and compassionate.
-    Motivations: To ensure the growth and safety of Twilight City and to navigate its complex political landscape.
-    Quirks: Has a penchant for ancient elven poetry and can often be found reading in her study.
-
+    * Role: Mayor and Leader of Twilight City
+    * Description: Mayor Calista Varis is a poised and dignified half-elf with silver hair and striking violet eyes. She wears elegant but practical clothing, often adorned with the city’s emblem. Calista is a skilled diplomat and leader, dedicated to maintaining the peace and prosperity of Twilight City.
+    * Personality: Diplomatic, strategic, and compassionate.
+    * Motivations: To ensure the growth and safety of Twilight City and to navigate its complex political landscape.
+    * Quirks: Has a penchant for ancient elven poetry and can often be found reading in her study.
 2. Aric the Watch Captain
-
-    Role: Leader of the City Guard
-    Description: Aric is a stern, battle-hardened human with a scar across his cheek and short-cropped brown hair. He wears the uniform of the city guard and carries a longsword at his side. Aric is responsible for the safety and security of Twilight City’s inhabitants.
-    Personality: Disciplined, vigilant, and loyal.
-    Motivations: To protect Twilight City from internal and external threats and maintain order.
-    Quirks: Has a deep love for chess and can often be found playing against himself during quiet hours.
-
+    * Role: Leader of the City Guard
+    * Description: Aric is a stern, battle-hardened human with a scar across his cheek and short-cropped brown hair. He wears the uniform of the city guard and carries a longsword at his side. Aric is responsible for the safety and security of Twilight City’s inhabitants.
+    * Personality: Disciplined, vigilant, and loyal.
+    * Motivations: To protect Twilight City from internal and external threats and maintain order.
+    * Quirks: Has a deep love for chess and can often be found playing against himself during quiet hours.
 3. Serena the Enchanter
-
-    Role: Magical Artisan and Shopkeeper
-    Description: Serena is an enigmatic elf with long, flowing black hair and piercing green eyes. She wears robes adorned with intricate magical symbols and carries a staff infused with arcane power. Serena runs a shop that sells enchanted items and magical artifacts.
-    Personality: Mysterious, knowledgeable, and slightly aloof.
-    Motivations: To continue her studies in enchantment and provide magical support to the city.
-    Quirks: Often speaks in riddles and has a familiar, a raven named Nocturne, that follows her everywhere.
-
+    * Role: Magical Artisan and Shopkeeper
+    * Description: Serena is an enigmatic elf with long, flowing black hair and piercing green eyes. She wears robes adorned with intricate magical symbols and carries a staff infused with arcane power. Serena runs a shop that sells enchanted items and magical artifacts.
+    * Personality: Mysterious, knowledgeable, and slightly aloof.
+    * Motivations: To continue her studies in enchantment and provide magical support to the city.
+    * Quirks: Often speaks in riddles and has a familiar, a raven named Nocturne, that follows her everywhere.
 4. Gregor the Blacksmith
-
-    Role: Blacksmith and Armorer
-    Description: Gregor is a burly dwarf with a booming voice and a thick, braided beard. He wears a leather apron and is usually seen with a hammer in hand. Gregor’s forge produces some of the finest weapons and armor in the city.
-    Personality: Gruff, jovial, and hardworking.
-    Motivations: To craft the best weapons and armor and ensure the city’s defenders are well-equipped.
-    Quirks: Loves to tell tall tales about his ancestors while working the forge.
-
+    * Role: Blacksmith and Armorer
+    * Description: Gregor is a burly dwarf with a booming voice and a thick, braided beard. He wears a leather apron and is usually seen with a hammer in hand. Gregor’s forge produces some of the finest weapons and armor in the city.
+    * Personality: Gruff, jovial, and hardworking.
+    * Motivations: To craft the best weapons and armor and ensure the city’s defenders are well-equipped.
+    * Quirks: Loves to tell tall tales about his ancestors while working the forge.
 5. Elara the Healer
-
-    Role: Healer and Herbalist
-    Description: Elara is a gentle half-elf with long auburn hair and kind hazel eyes. She wears simple robes and a pendant with a symbol of healing. Elara is known for her extensive knowledge of herbs and her healing magic.
-    Personality: Compassionate, wise, and nurturing.
-    Motivations: To heal the sick and injured and teach others the art of healing.
-    Quirks: Grows a wide variety of rare and magical herbs in her garden.
-
+    * Role: Healer and Herbalist
+    * Description: Elara is a gentle half-elf with long auburn hair and kind hazel eyes. She wears simple robes and a pendant with a symbol of healing. Elara is known for her extensive knowledge of herbs and her healing magic.
+    * Personality: Compassionate, wise, and nurturing.
+    * Motivations: To heal the sick and injured and teach others the art of healing.
+    * Quirks: Grows a wide variety of rare and magical herbs in her garden.
 6. Varen the Scholar
-
-    Role: Historian and Librarian
-    Description: Varen is an elderly human with spectacles perched on his nose and a perpetual ink stain on his fingers. He wears simple, scholarly robes and is often seen with a book in hand. Varen runs the city’s grand library, which holds a vast collection of ancient texts.
-    Personality: Inquisitive, wise, and meticulous.
-    Motivations: To uncover and preserve the history and knowledge of the world.
-    Quirks: Can often be found mumbling historical facts to himself and misplacing his spectacles.
-
+    * Role: Historian and Librarian
+    * Description: Varen is an elderly human with spectacles perched on his nose and a perpetual ink stain on his fingers. He wears simple, scholarly robes and is often seen with a book in hand. Varen runs the city’s grand library, which holds a vast collection of ancient texts.
+    * Personality: Inquisitive, wise, and meticulous.
+    * Motivations: To uncover and preserve the history and knowledge of the world.
+    * Quirks: Can often be found mumbling historical facts to himself and misplacing his spectacles.
 7. Lyanna the Bard
-
-    Role: Musician and Storyteller
-    Description: Lyanna is a charismatic half-elf with a radiant smile and a lute slung over her shoulder. She wears colorful clothing and often has a crowd around her. Lyanna’s performances are renowned throughout the city for their beauty and emotional depth.
-    Personality: Charming, witty, and kind-hearted.
-    Motivations: To spread joy and preserve the stories and songs of Twilight City.
-    Quirks: Has a habit of composing songs on the spot, often about the people she meets.
-
+    * Role: Musician and Storyteller
+    * Description: Lyanna is a charismatic half-elf with a radiant smile and a lute slung over her shoulder. She wears colorful clothing and often has a crowd around her. Lyanna’s performances are renowned throughout the city for their beauty and emotional depth.
+    * Personality: Charming, witty, and kind-hearted.
+    * Motivations: To spread joy and preserve the stories and songs of Twilight City.
+    * Quirks: Has a habit of composing songs on the spot, often about the people she meets.
 8. Kieran the Alchemist
-
-    Role: Alchemist and Potion Maker
-    Description: Kieran is a wiry human with a sharp intellect and a keen eye for detail. He wears a stained lab coat and is usually surrounded by bubbling potions and strange ingredients. Kieran’s potions are known for their effectiveness and variety.
-    Personality: Eccentric, curious, and inventive.
-    Motivations: To discover new alchemical formulas and provide potent potions to the city’s inhabitants.
-    Quirks: Has a pet cat named Alchemy that often knocks over his potions.
-
+    * Role: Alchemist and Potion Maker
+    * Description: Kieran is a wiry human with a sharp intellect and a keen eye for detail. He wears a stained lab coat and is usually surrounded by bubbling potions and strange ingredients. Kieran’s potions are known for their effectiveness and variety.
+    * Personality: Eccentric, curious, and inventive.
+    * Motivations: To discover new alchemical formulas and provide potent potions to the city’s inhabitants.
+    * Quirks: Has a pet cat named Alchemy that often knocks over his potions.
 9. Thalia the Merchant
-
-    Role: Trader and Entrepreneur
-    Description: Thalia is a shrewd human woman with piercing blue eyes and a business-like demeanor. She wears finely tailored clothing and is always seen negotiating deals. Thalia runs the most prosperous trading company in Twilight City.
-    Personality: Ambitious, strategic, and charming.
-    Motivations: To expand her trading empire and ensure the prosperity of her company.
-    Quirks: Has an extensive collection of rare and exotic artifacts.
-
+    * Role: Trader and Entrepreneur
+    * Description: Thalia is a shrewd human woman with piercing blue eyes and a business-like demeanor. She wears finely tailored clothing and is always seen negotiating deals. Thalia runs the most prosperous trading company in Twilight City.
+    * Personality: Ambitious, strategic, and charming.
+    * Motivations: To expand her trading empire and ensure the prosperity of her company.
+    * Quirks: Has an extensive collection of rare and exotic artifacts.
 10. Darius the Ranger
-
-    Role: Tracker and Scout
-    Description: Darius is a rugged half-elf with sharp features and a watchful gaze. He wears light armor and carries a bow and quiver of arrows. Darius is the city’s best tracker, often venturing into the surrounding wilderness to scout for potential threats.
-    Personality: Independent, observant, and protective.
-    Motivations: To safeguard Twilight City and explore the wilds.
-    Quirks: Has a pet hawk named Storm that accompanies him on his patrols.
+    * Role: Tracker and Scout
+    * Description: Darius is a rugged half-elf with sharp features and a watchful gaze. He wears light armor and carries a bow and quiver of arrows. Darius is the city’s best tracker, often venturing into the surrounding wilderness to scout for potential threats.
+    * Personality: Independent, observant, and protective.
+    * Motivations: To safeguard Twilight City and explore the wilds.
+    * Quirks: Has a pet hawk named Storm that accompanies him on his patrols.
 
 # NPCs in The Radiant Bastion
 
 1. Lord Commander Alaric Sunshield
-
-    Role: Military Leader
-    Description: Lord Commander Alaric Sunshield is a tall, imposing human with a chiseled jaw and piercing blue eyes. He wears gleaming golden armor adorned with sun motifs and carries a massive sword named "Solar Flare." Alaric commands the forces of The Radiant Bastion with unwavering authority and strategic brilliance.
-    Personality: Stern, honorable, and tactical.
-    Motivations: To protect The Radiant Bastion from all threats and maintain the honor of the Sun worshipers.
-    Quirks: Practices swordplay at dawn every day and has a strict morning routine.
-
+    * Role: Military Leader
+    * Description: Lord Commander Alaric Sunshield is a tall, imposing human with a chiseled jaw and piercing blue eyes. He wears gleaming golden armor adorned with sun motifs and carries a massive sword named "Solar Flare." Alaric commands the forces of The Radiant Bastion with unwavering authority and strategic brilliance.
+    * Personality: Stern, honorable, and tactical.
+    * Motivations: To protect The Radiant Bastion from all threats and maintain the honor of the Sun worshipers.
+    * Quirks: Practices swordplay at dawn every day and has a strict morning routine.
 2. Lady Evangeline Lightbringer
-
-    Role: High Priestess of Din Pita
-    Description: Lady Evangeline is an ethereal elf with long, silvery hair and luminous golden eyes. She wears flowing robes of white and gold, and her presence radiates a calming, divine aura. Evangeline leads the religious ceremonies and rituals within The Radiant Bastion, offering guidance and blessings to the faithful.
-    Personality: Wise, compassionate, and serene.
-    Motivations: To ensure the spiritual well-being of the Sun worshipers and counter the influence of Thaldrin.
-    Quirks: Often found meditating in the sacred gardens at dusk.
-
+    * Role: High Priestess of Din Pita
+    * Description: Lady Evangeline is an ethereal elf with long, silvery hair and luminous golden eyes. She wears flowing robes of white and gold, and her presence radiates a calming, divine aura. Evangeline leads the religious ceremonies and rituals within The Radiant Bastion, offering guidance and blessings to the faithful.
+    * Personality: Wise, compassionate, and serene.
+    * Motivations: To ensure the spiritual well-being of the Sun worshipers and counter the influence of Thaldrin.
+    * Quirks: Often found meditating in the sacred gardens at dusk.
 3. Master Arannis Dawnforge
-
-    Role: Master Blacksmith
-    Description: Master Arannis is a stout dwarf with a thick, fiery-red beard and calloused hands. He wears a heavy leather apron and wields a massive hammer named "Sun's Anvil." Arannis is responsible for crafting and maintaining the finest weapons and armor for The Radiant Bastion.
-    Personality: Gruff, diligent, and meticulous.
-    Motivations: To forge the best equipment for the Bastion's defenders and outshine his competitors.
-    Quirks: Sings old dwarven forging songs while working the forge.
-
+    * Role: Master Blacksmith
+    * Description: Master Arannis is a stout dwarf with a thick, fiery-red beard and calloused hands. He wears a heavy leather apron and wields a massive hammer named "Sun's Anvil." Arannis is responsible for crafting and maintaining the finest weapons and armor for The Radiant Bastion.
+    * Personality: Gruff, diligent, and meticulous.
+    * Motivations: To forge the best equipment for the Bastion's defenders and outshine his competitors.
+    * Quirks: Sings old dwarven forging songs while working the forge.
 4. Captain Lyra Stormwind
-
-    Role: Head of the Bastion Guard
-    Description: Captain Lyra is a lithe, athletic human with short, cropped blonde hair and sharp green eyes. She wears practical, reinforced armor and wields twin blades named "Sunrise" and "Sunset." Lyra commands the Bastion Guard, ensuring the safety and order within the fortress.
-    Personality: Disciplined, fierce, and loyal.
-    Motivations: To protect the Bastion from internal and external threats and uphold the law.
-    Quirks: Has a habit of twirling her blades when deep in thought.
-
+    * Role: Head of the Bastion Guard
+    * Description: Captain Lyra is a lithe, athletic human with short, cropped blonde hair and sharp green eyes. She wears practical, reinforced armor and wields twin blades named "Sunrise" and "Sunset." Lyra commands the Bastion Guard, ensuring the safety and order within the fortress.
+    * Personality: Disciplined, fierce, and loyal.
+    * Motivations: To protect the Bastion from internal and external threats and uphold the law.
+    * Quirks: Has a habit of twirling her blades when deep in thought.
 5. Eldrin the Scholar
-
-    Role: Historian and Scribe
-    Description: Eldrin is a middle-aged elf with spectacles and ink-stained fingers. He wears simple robes and is often seen carrying scrolls and books. Eldrin dedicates his life to studying the ancient texts and the history of The Radiant Bastion and its religious practices.
-    Personality: Inquisitive, knowledgeable, and meticulous.
-    Motivations: To uncover the true history of the Bastion and the Sun and Moon relics.
-    Quirks: Gets lost in thought and can sometimes be found muttering historical facts to himself.
-
+    * Role: Historian and Scribe
+    * Description: Eldrin is a middle-aged elf with spectacles and ink-stained fingers. He wears simple robes and is often seen carrying scrolls and books. Eldrin dedicates his life to studying the ancient texts and the history of The Radiant Bastion and its religious practices.
+    * Personality: Inquisitive, knowledgeable, and meticulous.
+    * Motivations: To uncover the true history of the Bastion and the Sun and Moon relics.
+    * Quirks: Gets lost in thought and can sometimes be found muttering historical facts to himself.
 6. Mira the Merchant
-
-    Role: Shopkeeper and Trader
-    Description: Mira is a lively human woman with curly red hair and bright green eyes. She wears colorful clothing and a welcoming smile. Mira runs the most popular general store in The Radiant Bastion, offering a wide variety of goods and supplies.
-    Personality: Friendly, shrewd, and resourceful.
-    Motivations: To provide for her family and ensure her business thrives.
-    Quirks: Has an uncanny ability to remember every customer’s name and preferences.
-
+    * Role: Shopkeeper and Trader
+    * Description: Mira is a lively human woman with curly red hair and bright green eyes. She wears colorful clothing and a welcoming smile. Mira runs the most popular general store in The Radiant Bastion, offering a wide variety of goods and supplies.
+    * Personality: Friendly, shrewd, and resourceful.
+    * Motivations: To provide for her family and ensure her business thrives.
+    * Quirks: Has an uncanny ability to remember every customer’s name and preferences.
 7. Thorin the Blacksmith
-
-    Role: Blacksmith and Armorer
-    Description: Thorin is a burly dwarf with a fiery temper and a bushy black beard. He wears a leather apron and is often covered in soot and sweat. Thorin’s craftsmanship is renowned in Sunhaven, producing some of the finest weapons and armor.
-    Personality: Gruff, hardworking, and loyal.
-    Motivations: To forge the best weapons and armor to protect Sunhaven.
-    Quirks: Sings dwarven songs while working the forge.
-
+    * Role: Blacksmith and Armorer
+    * Description: Thorin is a burly dwarf with a fiery temper and a bushy black beard. He wears a leather apron and is often covered in soot and sweat. Thorin’s craftsmanship is renowned in Sunhaven, producing some of the finest weapons and armor.
+    * Personality: Gruff, hardworking, and loyal.
+    * Motivations: To forge the best weapons and armor to protect Sunhaven.
+    * Quirks: Sings dwarven songs while working the forge.
 8. Lyra the Herbalist
-
-    Role: Healer and Herbalist
-    Description: Lyra is a serene human woman with long, braided brown hair and gentle hazel eyes. She wears simple, practical clothing and an apron filled with herbs and potions. Lyra is known for her knowledge of healing herbs and remedies.
-    Personality: Compassionate, wise, and nurturing.
-    Motivations: To heal the sick and injured and to teach others the art of herbalism.
-    Quirks: Keeps a small garden of rare herbs behind her shop.
-
+    * Role: Healer and Herbalist
+    * Description: Lyra is a serene human woman with long, braided brown hair and gentle hazel eyes. She wears simple, practical clothing and an apron filled with herbs and potions. Lyra is known for her knowledge of healing herbs and remedies.
+    * Personality: Compassionate, wise, and nurturing.
+    * Motivations: To heal the sick and injured and to teach others the art of herbalism.
+    * Quirks: Keeps a small garden of rare herbs behind her shop.
 9. Jareth the Bard
-
-    Role: Musician and Storyteller
-    Description: Jareth is a charismatic half-elf with a charming smile and a lute slung over his shoulder. He wears colorful clothing and a hat adorned with feathers. Jareth is known for his captivating tales and enchanting music.
-    Personality: Witty, entertaining, and kind-hearted.
-    Motivations: To spread joy and preserve the stories and songs of Sunhaven.
-    Quirks: Can often be found playing music in the town square or telling stories to children.
-
+    * Role: Musician and Storyteller
+    * Description: Jareth is a charismatic half-elf with a charming smile and a lute slung over his shoulder. He wears colorful clothing and a hat adorned with feathers. Jareth is known for his captivating tales and enchanting music.
+    * Personality: Witty, entertaining, and kind-hearted.
+    * Motivations: To spread joy and preserve the stories and songs of Sunhaven.
+    * Quirks: Can often be found playing music in the town square or telling stories to children.
 10. Kara the Ranger
-
-    Role: Tracker and Scout
-    Description: Kara is a nimble half-elf with keen blue eyes and short, cropped blonde hair. She wears light armor suited for stealth and agility, and carries a bow and quiver of arrows. Kara is the best tracker in Sunhaven and often ventures into the surrounding wilderness.
-    Personality: Independent, observant, and protective.
-    Motivations: To keep Sunhaven safe from external threats and to explore the wilderness.
-    Quirks: Has a pet wolf named Shadow that accompanies her on patrols.
-
+    * Role: Tracker and Scout
+    * Description: Kara is a nimble half-elf with keen blue eyes and short, cropped blonde hair. She wears light armor suited for stealth and agility, and carries a bow and quiver of arrows. Kara is the best tracker in Sunhaven and often ventures into the surrounding wilderness.
+    * Personality: Independent, observant, and protective.
+    * Motivations: To keep Sunhaven safe from external threats and to explore the wilderness.
+    * Quirks: Has a pet wolf named Shadow that accompanies her on patrols.
 11. Althea the Seer
-
-    Role: Oracle and Advisor
-    Description: Althea is a mysterious human with flowing white hair and eyes that shimmer with otherworldly light. She wears robes adorned with celestial patterns and carries a crystal orb. Althea is revered for her prophetic visions and insights into the future.
-    Personality: Enigmatic, wise, and cryptic.
-    Motivations: To provide guidance and forewarning to the leaders of The Radiant Bastion.
-    Quirks: Often speaks in riddles and metaphors, leaving listeners to decipher her true meaning.
-
+    * Role: Oracle and Advisor
+    * Description: Althea is a mysterious human with flowing white hair and eyes that shimmer with otherworldly light. She wears robes adorned with celestial patterns and carries a crystal orb. Althea is revered for her prophetic visions and insights into the future.
+    * Personality: Enigmatic, wise, and cryptic.
+    * Motivations: To provide guidance and forewarning to the leaders of The Radiant Bastion.
+    * Quirks: Often speaks in riddles and metaphors, leaving listeners to decipher her true meaning.
 12. Brennus the Builder
-
-    Role: Chief Architect and Engineer
-    Description: Brennus is a burly, bearded human with a perpetual layer of dust on his clothes. He wears practical work attire and carries a set of blueprints wherever he goes. Brennus is responsible for the design and maintenance of the Bastion’s defenses and infrastructure.
-    Personality: Practical, inventive, and meticulous.
-    Motivations: To strengthen and improve the Bastion’s fortifications and structures.
-    Quirks: Often found sketching new designs on any available surface, including walls and tables.
-
+    * Role: Chief Architect and Engineer
+    * Description: Brennus is a burly, bearded human with a perpetual layer of dust on his clothes. He wears practical work attire and carries a set of blueprints wherever he goes. Brennus is responsible for the design and maintenance of the Bastion’s defenses and infrastructure.
+    * Personality: Practical, inventive, and meticulous.
+    * Motivations: To strengthen and improve the Bastion’s fortifications and structures.
+    * Quirks: Often found sketching new designs on any available surface, including walls and tables.
 13. Mira the Merchant
-
-    Role: Shopkeeper and Trader
-    Description: Mira is a lively human woman with curly red hair and bright green eyes. She wears colorful clothing and a welcoming smile. Mira runs the most popular general store in Sunhaven, offering a wide variety of goods and supplies.
-    Personality: Friendly, shrewd, and resourceful.
-    Motivations: To provide for her family and ensure her business thrives.
-    Quirks: Has an uncanny ability to remember every customer’s name and preferences.
-
+    * Role: Shopkeeper and Trader
+    * Description: Mira is a lively human woman with curly red hair and bright green eyes. She wears colorful clothing and a welcoming smile. Mira runs the most popular general store in Sunhaven, offering a wide variety of goods and supplies.
+    * Personality: Friendly, shrewd, and resourceful.
+    * Motivations: To provide for her family and ensure her business thrives.
+    * Quirks: Has an uncanny ability to remember every customer’s name and preferences.
 14. Thorin the Blacksmith
-
-    Role: Blacksmith and Armorer
-    Description: Thorin is a burly dwarf with a fiery temper and a bushy black beard. He wears a leather apron and is often covered in soot and sweat. Thorin’s craftsmanship is renowned in Sunhaven, producing some of the finest weapons and armor.
-    Personality: Gruff, hardworking, and loyal.
-    Motivations: To forge the best weapons and armor to protect Sunhaven.
-    Quirks: Sings dwarven songs while working the forge.
-
+    * Role: Blacksmith and Armorer
+    * Description: Thorin is a burly dwarf with a fiery temper and a bushy black beard. He wears a leather apron and is often covered in soot and sweat. Thorin’s craftsmanship is renowned in Sunhaven, producing some of the finest weapons and armor.
+    * Personality: Gruff, hardworking, and loyal.
+    * Motivations: To forge the best weapons and armor to protect Sunhaven.
+    * Quirks: Sings dwarven songs while working the forge.
 15. Elara the Healer
-
-    Role: Healer and Herbalist
-    Description: Elara is a gentle half-elf with long auburn hair and kind hazel eyes. She wears simple robes and a pendant with a symbol of healing. Elara is known for her extensive knowledge of herbs and her healing magic.
-    Personality: Compassionate, wise, and nurturing.
-    Motivations: To heal the sick and injured and teach others the art of healing.
-    Quirks: Grows a wide variety of rare and magical herbs in her garden.
-
+    * Role: Healer and Herbalist
+    * Description: Elara is a gentle half-elf with long auburn hair and kind hazel eyes. She wears simple robes and a pendant with a symbol of healing. Elara is known for her extensive knowledge of herbs and her healing magic.
+    * Personality: Compassionate, wise, and nurturing.
+    * Motivations: To heal the sick and injured and teach others the art of healing.
+    * Quirks: Grows a wide variety of rare and magical herbs in her garden.
 16. Varen the Scholar
-
-    Role: Historian and Librarian
-    Description: Varen is an elderly human with spectacles perched on his nose and a perpetual ink stain on his fingers. He wears simple, scholarly robes and is often seen with a book in hand. Varen runs the city’s grand library, which holds a vast collection of ancient texts.
-    Personality: Inquisitive, wise, and meticulous.
-    Motivations: To uncover and preserve the history and knowledge of the world.
-    Quirks: Can often be found mumbling historical facts to himself and misplacing his spectacles.
-
+    * Role: Historian and Librarian
+    * Description: Varen is an elderly human with spectacles perched on his nose and a perpetual ink stain on his fingers. He wears simple, scholarly robes and is often seen with a book in hand. Varen runs the city’s grand library, which holds a vast collection of ancient texts.
+    * Personality: Inquisitive, wise, and meticulous.
+    * Motivations: To uncover and preserve the history and knowledge of the world.
+    * Quirks: Can often be found mumbling historical facts to himself and misplacing his spectacles.
 17. Lyanna the Bard
-
-    Role: Musician and Storyteller
-    Description: Lyanna is a charismatic half-elf with a radiant smile and a lute slung over her shoulder. She wears colorful clothing and often has a crowd around her. Lyanna’s performances are renowned throughout the city for their beauty and emotional depth.
-    Personality: Charming, witty, and kind-hearted.
-    Motivations: To spread joy and preserve the stories and songs of Twilight City.
-    Quirks: Has a habit of composing songs on the spot, often about the people she meets.
-
+    * Role: Musician and Storyteller
+    * Description: Lyanna is a charismatic half-elf with a radiant smile and a lute slung over her shoulder. She wears colorful clothing and often has a crowd around her. Lyanna’s performances are renowned throughout the city for their beauty and emotional depth.
+    * Personality: Charming, witty, and kind-hearted.
+    * Motivations: To spread joy and preserve the stories and songs of Twilight City.
+    * Quirks: Has a habit of composing songs on the spot, often about the people she meets.
 18. Kieran the Alchemist
-
-    Role: Alchemist and Potion Maker
-    Description: Kieran is a wiry human with a sharp intellect and a keen eye for detail. He wears a stained lab coat and is usually surrounded by bubbling potions and strange ingredients. Kieran’s potions are known for their effectiveness and variety.
-    Personality: Eccentric, curious, and inventive.
-    Motivations: To discover new alchemical formulas and provide potent potions to the city’s inhabitants.
-    Quirks: Has a pet cat named Alchemy that often knocks over his potions.
-
+    * Role: Alchemist and Potion Maker
+    * Description: Kieran is a wiry human with a sharp intellect and a keen eye for detail. He wears a stained lab coat and is usually surrounded by bubbling potions and strange ingredients. Kieran’s potions are known for their effectiveness and variety.
+    * Personality: Eccentric, curious, and inventive.
+    * Motivations: To discover new alchemical formulas and provide potent potions to the city’s inhabitants.
+    * Quirks: Has a pet cat named Alchemy that often knocks over his potions.
 19. Thalia the Merchant
-
-    Role: Trader and Entrepreneur
-    Description: Thalia is a shrewd human woman with piercing blue eyes and a business-like demeanor. She wears finely tailored clothing and is always seen negotiating deals. Thalia runs the most prosperous trading company in Twilight City.
-    Personality: Ambitious, strategic, and charming.
-    Motivations: To expand her trading empire and ensure the prosperity of her company.
-    Quirks: Has an extensive collection of rare and exotic artifacts.
-
+    * Role: Trader and Entrepreneur
+    * Description: Thalia is a shrewd human woman with piercing blue eyes and a business-like demeanor. She wears finely tailored clothing and is always seen negotiating deals. Thalia runs the most prosperous trading company in Twilight City.
+    * Personality: Ambitious, strategic, and charming.
+    * Motivations: To expand her trading empire and ensure the prosperity of her company.
+    * Quirks: Has an extensive collection of rare and exotic artifacts.
 20. Darius the Ranger
-
-    Role: Tracker and Scout
-    Description: Darius is a rugged half-elf with sharp features and a watchful gaze. He wears light armor and carries a bow and quiver of arrows. Darius is the city’s best tracker, often venturing into the surrounding wilderness to scout for potential threats.
-    Personality: Independent, observant, and protective.
-    Motivations: To safeguard Twilight City and explore the wilds.
-    Quirks: Has a pet hawk named Storm that accompanies him on his patrols.
+    * Role: Tracker and Scout
+    * Description: Darius is a rugged half-elf with sharp features and a watchful gaze. He wears light armor and carries a bow and quiver of arrows. Darius is the city’s best tracker, often venturing into the surrounding wilderness to scout for potential threats.
+    * Personality: Independent, observant, and protective.
+    * Motivations: To safeguard Twilight City and explore the wilds.
+    * Quirks: Has a pet hawk named Storm that accompanies him on his patrols.
