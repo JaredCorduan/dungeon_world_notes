@@ -42,7 +42,12 @@ Impending Doom: Destruction
  * Thaldrin - the evil Sun priest
  * Liora - the scholar helping find balance
  * Varen - the Informant inside Sunhaven
- * Jareth - Aruna's contact in Twilight City
+ * Polt - Aruna's contact in Twilight City
+
+### Dieties
+
+* Raat Maana - moon god
+* Din Pita - sun god
 
 ## Stakes
 
