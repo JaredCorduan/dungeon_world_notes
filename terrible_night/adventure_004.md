@@ -1,4 +1,4 @@
-# Sesson 3 - Get out of Sunhaven
+# Sesson 4 - Get out of Sunhaven
 
 ## Adventure
 

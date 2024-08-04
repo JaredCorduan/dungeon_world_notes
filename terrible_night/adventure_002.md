@@ -1,4 +1,4 @@
-# Sesson 1 - Temple of the Ensnared Moon
+# Sesson 2 - Temple of the Ensnared Moon
 
 ## The hook
 
